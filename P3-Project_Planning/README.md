@@ -8,7 +8,10 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+[Login Page](https://github.com/githubbing/liftoff-assignments/blob/master/P3-Project_Planning/Login%20Page.pdf)
+[Gifts Given](https://github.com/githubbing/liftoff-assignments/blob/master/P3-Project_Planning/Gifts%20Given.pdf)
+[Gifts Received](https://github.com/githubbing/liftoff-assignments/blob/master/P3-Project_Planning/Gifts%20Receved.pdf)
+[Gifts Given and not Received](https://github.com/githubbing/liftoff-assignments/blob/master/P3-Project_Planning/Gifts%20Purchased%20and%20not%20Given.pdf)
 
 ### Project Tracker
 
